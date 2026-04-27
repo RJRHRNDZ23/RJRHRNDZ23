@@ -68,14 +68,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RolandoJr23&label=Visitors&color=53CBF3&style=for-the-badge" />
-</p>
-
----
-
 ## 🎨 Footer Theme
 
 <div align="center">
@@ -96,6 +88,10 @@ Made with ❤️ by **Rolando Jr Hernandez**
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RolandoJr23&label=Visitors&color=53CBF3&style=for-the-badge" />
+</p>
 
 ---
 
