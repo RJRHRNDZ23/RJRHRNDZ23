@@ -26,7 +26,7 @@
 
 * 🎨 Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind
 * ⚙️ Backend: Nodejs, PHP, Python, C#, REST API
-* 🗄️ Database: MySQL, MSSQL, MongoDB, PostgreSQL
+* 🗄️ Database: MySQL, MSSQL, MongoDB, PostgreSQL, Supabase
 * ⚛️ Framework: React, Express.js, .Net
 * 👨‍💻 Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn, Render, Vercel
 * 🎯 Focus: Clean architecture + great user experience
@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,mysql,mongodb,postgresql,Node,Redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,mysql,mongodb,postgresql,supabase,Node,Redis" />
 </p>
 
 ---
