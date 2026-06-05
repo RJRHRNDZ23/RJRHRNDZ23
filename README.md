@@ -10,13 +10,11 @@
 
 ---
 
-## 🛄 MY JOURNEY 
+I am a Software Developer based in the Philippines, passionate about building modern, user-focused web applications that solve real-world problems.
 
-* The start of my career was admittedly difficult, not knowing how to start in the tech industry and as a software developer after school, but I'm not saying it was a bad for me in my career, being off the path to follow as a Computer Science graduate. I learned a lot in life and learned what needed to learn in life. Being off the path became my motivation to be better in life and to build Software Solutions and solve real world problems.
+I have experience in inventory control, material planning, and software development, which gives me a strong understanding of both business processes and technical solutions.
 
-## 💡⚙️ My APPROACH
-
-* To build software development with user-centric mindset and focusing in creating significant features in software development that will bring solution in the real world problems. I'm passionate about clean code and sustainable development. Always on my mind that I will bring solution in very messed up in this world. I'm not saying that I'm a powerful human but, always on my mind that I have the ability as a human being.
+Currently, I specialize in React and Next.js, developing responsive and efficient web applications with a focus on performance, usability, and clean design.
 
 ---
 
