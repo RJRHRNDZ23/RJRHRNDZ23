@@ -14,7 +14,7 @@ I am a Software Developer based in the Philippines, passionate about building mo
 
 I have experience in inventory management and material planning from my previous job, which gave me a strong understanding of both business processes and practical operations.
 
-Now I'm currently focusing on software development, I specialize in React and Next.js, developing responsive and efficient web applications with a focus on performance, usability, and clean design.
+Now, I am currently focusing on software development. I specialize in React and Next.js, developing responsive and efficient web applications with a focus on performance, usability, and clean design.
 
 ---
 
