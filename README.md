@@ -12,7 +12,7 @@
 
 I am a Software Developer based in the Philippines, passionate about building modern, user-focused web applications that solve real-world problems.
 
-I have experience in inventory control, material planning, which gives me a strong understanding of both business processes and technical solutions.
+I have experience in inventory control and material planning from my previous job, which gave me a strong understanding of both business processes and practical operations.
 
 Now currently focusing on software development, I specialize in React and Next.js, developing responsive and efficient web applications with a focus on performance, usability, and clean design.
 
