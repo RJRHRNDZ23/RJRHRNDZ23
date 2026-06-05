@@ -22,13 +22,6 @@ Now currently focusing on software development, I specialize in React and Next.j
 
 💻 Passionate Full Stack Developer building modern, scalable, and high-performance web applications.
 
-* 🎨 Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind
-* ⚙️ Backend: Nodejs, PHP, Python, C#, REST API
-* 🗄️ Database: MySQL, MSSQL, MongoDB, PostgreSQL, Supabase
-* ⚛️ Framework: React, Next.js, Express.js, .Net
-* 👨‍💻 Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn, Render, Vercel
-* 🎯 Focus: Clean architecture + great user experience
-
 ---
 
 ## 🛠️ Tech Stack
@@ -36,6 +29,13 @@ Now currently focusing on software development, I specialize in React and Next.j
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,nextjs,mysql,mongodb,postgresql,supabase,Node,Redis" />
 </p>
+
+* 🎨 Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind
+* ⚙️ Backend: Nodejs, PHP, Python, C#, REST API
+* 🗄️ Database: MySQL, MSSQL, MongoDB, PostgreSQL, Supabase
+* ⚛️ Framework: React, Next.js, Express.js, .Net
+* 👨‍💻 Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn, Render, Vercel
+* 🎯 Focus: Clean architecture + great user experience
 
 ---
 
