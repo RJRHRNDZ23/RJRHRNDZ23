@@ -12,20 +12,20 @@
 
 I am a Software Developer based in the Philippines, passionate about building modern, user-focused web applications that solve real-world problems.
 
-I have experience in inventory control, material planning, and software development, which gives me a strong understanding of both business processes and technical solutions.
+I have experience in inventory control, material planning, which gives me a strong understanding of both business processes and technical solutions.
 
-Currently, I specialize in React and Next.js, developing responsive and efficient web applications with a focus on performance, usability, and clean design.
+Now currently focusing on software development, I specialize in React and Next.js, developing responsive and efficient web applications with a focus on performance, usability, and clean design.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
 💻 Passionate Full Stack Developer building modern, scalable, and high-performance web applications.
 
 * 🎨 Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind
 * ⚙️ Backend: Nodejs, PHP, Python, C#, REST API
 * 🗄️ Database: MySQL, MSSQL, MongoDB, PostgreSQL, Supabase
-* ⚛️ Framework: React, Express.js, .Net
+* ⚛️ Framework: React, Next.js, Express.js, .Net
 * 👨‍💻 Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn, Render, Vercel
 * 🎯 Focus: Clean architecture + great user experience
 
@@ -34,7 +34,7 @@ Currently, I specialize in React and Next.js, developing responsive and efficien
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,mysql,mongodb,postgresql,supabase,Node,Redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,nextjs,mysql,mongodb,postgresql,supabase,Node,Redis" />
 </p>
 
 ---
