@@ -18,9 +18,13 @@ Now, I am currently focusing on software development. I specialize in React and 
 
 ---
 
-## 🚀 What I Do
+## 🧠 Current Focus
 
-💻 Passionate Full Stack Developer building modern, scalable, and high-performance web applications.
+* 🔥 Full Stack Application Development
+* 🌐 Building modern web apps for Businesses
+* ⚡ Performance Optimization
+* 🎨 UI/UX Improvements
+* 🧩 Scalable System Design
 
 ---
 
@@ -37,16 +41,6 @@ Now, I am currently focusing on software development. I specialize in React and 
 * Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn, Render, Vercel
 * AI & Data Science: PyTorch, Tensorflow, Pandas, Numpy, Matplotlib, Scikit-Learn, Imbalanced-Learn, Supervised Learning, Unsupervised Learning, YOLO
 * Focus: Clean architecture + great user experience
-
----
-
-## 🧠 Current Focus
-
-* 🔥 Full Stack Application Development
-* 🌐 Building modern web apps for Businesses
-* ⚡ Performance Optimization
-* 🎨 UI/UX Improvements
-* 🧩 Scalable System Design
 
 ---
 
@@ -77,15 +71,6 @@ Now, I am currently focusing on software development. I specialize in React and 
 ---
 
 </div>
-
----
-
-## 🎨 Footer Theme
-
-<div align="center">
-
-🌟 **Thanks for visiting my GitHub!** 🌟  
-Made with ❤️ by **Rolando Jr Hernandez**
 
 ---
 
