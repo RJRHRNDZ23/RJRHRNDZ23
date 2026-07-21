@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rolando Jr Hernandez
+# Hi, I'm Rolando Jr Hernandez
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:53CBF3,100:1C6EA4&height=250&section=header&text=Software%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -53,6 +53,7 @@ Now, I am currently focusing on software development. I specialize in React and 
 ## 🧠 Current Focus
 
 * 🔥 Full Stack Application Development
+* 🌐 Building modern web apps for Businesses
 * ⚡ Performance Optimization
 * 🎨 UI/UX Improvements
 * 🧩 Scalable System Design
