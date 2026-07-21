@@ -40,16 +40,6 @@ Now, I am currently focusing on software development. I specialize in React and 
 
 ---
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://rbh-jr-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-1C6EA4?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🧠 Current Focus
 
 * 🔥 Full Stack Application Development
@@ -60,14 +50,17 @@ Now, I am currently focusing on software development. I specialize in React and 
 
 ---
 
-## 🎨 Footer Theme
+## 🌐 Portfolio
 
-<div align="center">
-
-🌟 **Thanks for visiting my GitHub!** 🌟  
-Made with ❤️ by **Rolando Jr Hernandez**
+<p align="center">
+  <a href="https://rbh-jr-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-1C6EA4?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+## Social Media
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
   <a href="https://www.instagram.com/rjrhrndz/" target="_blank">
@@ -81,15 +74,18 @@ Made with ❤️ by **Rolando Jr Hernandez**
   </a>
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RolandoJr23&label=Visitors&color=53CBF3&style=for-the-badge" />
-</p>
-
 ---
 
 </div>
+
+---
+
+## 🎨 Footer Theme
+
+<div align="center">
+
+🌟 **Thanks for visiting my GitHub!** 🌟  
+Made with ❤️ by **Rolando Jr Hernandez**
 
 ---
 
