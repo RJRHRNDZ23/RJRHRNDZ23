@@ -18,17 +18,17 @@ Now, I am currently focusing on software development. I specialize in React and 
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
-* 🔥 Full Stack Application Development
-* 🌐 Building modern web apps for Businesses
-* ⚡ Performance Optimization
-* 🎨 UI/UX Improvements
-* 🧩 Scalable System Design
+* Full Stack Application Development
+* Building modern web apps for Businesses
+* Performance Optimization
+* UI/UX Improvements
+* Scalable System Design
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,nextjs,nodejs,mysql,mongodb,postgresql,supabase,Node,Redis" />
@@ -44,7 +44,7 @@ Now, I am currently focusing on software development. I specialize in React and 
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 <p align="center">
   <a href="https://rbh-jr-portfolio.vercel.app/" target="_blank">
@@ -72,4 +72,4 @@ Now, I am currently focusing on software development. I specialize in React and 
 
 </div>
 
-⭐ *"Build Smart. Scale Fast. Stand Out."*
+*"Build Smart. Scale Fast. Stand Out."*
