@@ -1,11 +1,5 @@
-# Hi, I'm Rolando Jr Hernandez
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:53CBF3,100:1C6EA4&height=250&section=header&text=Software%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=53CBF3&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Data+Science;Data+Analyst;UI%2FUX+Focused+Development" />
+  <img src="./assets/banner.png" alt="Rolando Jr Hernandez Banner" width="100%" />
 </p>
 
 ---
