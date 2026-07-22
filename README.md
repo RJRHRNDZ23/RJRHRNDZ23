@@ -12,16 +12,6 @@ Now, I am currently focusing on software development. I specialize in React and 
 
 ---
 
-## Current Focus
-
-* Full Stack Application Development
-* Building modern web apps for Businesses
-* Performance Optimization
-* UI/UX Improvements
-* Scalable System Design
-
----
-
 ## Tech Stack
 
 <p align="center">
