@@ -45,4 +45,4 @@ Now, I am currently focusing on software development. I specialize in React and 
 
 </div>
 
-*"Build Smart. Scale Fast. Stand Out."*
+*"Continuously learning, building, and evolving."*
