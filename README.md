@@ -15,7 +15,7 @@ Now, I am currently focusing on software development. I specialize in React and 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,nextjs,nodejs,mysql,mongodb,postgresql,supabase,Node,Redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,cs,python,react,nextjs,nodejs,mysql,mongodb,postgresql,supabase,Node,Redis" />
 </p>
 
 * Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind
